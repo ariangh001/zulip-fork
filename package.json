@@ -55,7 +55,7 @@
     "katex": "^0.16.2",
     "koa": "^2.15.0",
     "lodash": "^4.17.19",
-    "micromodal": "^0.4.6",
+    "micromodal": "^0.6.1",
     "mini-css-extract-plugin": "^2.2.2",
     "minimalistic-assert": "^1.0.1",
     "panzoom": "^9.4.2",
